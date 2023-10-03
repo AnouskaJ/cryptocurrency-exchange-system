@@ -1,0 +1,41 @@
+.App {
+  text-align: center;
+  background-color: #f0f0f0; 
+}
+
+.landing-page {
+  padding: 20px;
+  text-align: center;
+}
+
+header {
+  background-color: #663399; 
+  color: #fff;
+  padding: 20px;
+}
+
+main {
+  margin-top: 20px;
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1.2rem;
+}
+
+.cta-button {
+  background-color: #512da8; 
+  color: #fff;
+  border: none;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  cursor: pointer;
+  transition: background-color 0.3s; 
+}
+
+.cta-button:hover {
+  background-color: #431c6f; 
+}
